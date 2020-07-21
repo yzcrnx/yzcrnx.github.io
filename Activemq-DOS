@@ -1,0 +1,3 @@
+By Code review . I find that ActiveMQ demo pages use StringBuilder.readLine functions to get inputstream from request
+
+
